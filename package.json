@@ -1,0 +1,11 @@
+{
+    "name": "cra-template",
+    "version": "1.0.2",
+    "description": "HyperCurrent template for create-react-app",
+    "repository": "git@github.com:Paul-Kratz/hypercurrent-cra-template.git",
+    "license": "MIT",
+    "files": [
+      "template",
+      "template.json"
+    ]
+  }

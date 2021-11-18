@@ -1,0 +1,1 @@
+## This is a Create React App template to create a Freemium HyperCurrent app.
